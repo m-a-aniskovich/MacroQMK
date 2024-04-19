@@ -151,6 +151,126 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTVDBHSJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MacroQMK\Design Rule Check - MacroQMK.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GML
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for MacroQMK\MacroQMK.REP
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -384,7 +504,7 @@ OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.57|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.56|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
@@ -410,7 +530,7 @@ OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.57|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.56|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=ForceUpdateSettings
 Configuration2_Item1=False
 Configuration2_Name2=OutputConfigurationParameter1
@@ -483,7 +603,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Projects\MacroQMK\MacroQMK.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Projects\MacroQMK\AltiumProject\MacroQMK.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -508,7 +628,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=XLSGLOEO|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908292~1,16908294~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Projects\MacroQMK\MacroQMK.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=XLSGLOEO|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=D:\Projects\MacroQMK\AltiumProject\MacroQMK.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1191,16 +1311,94 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=MacroQMK.SchLib
-ComponentDesignItemID0=MX_Cherry
-ComponentSymbolReference0=MX_Cherry
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=0.1u
+ComponentSymbolReference0=0.1u
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Any
+ComponentLibraryIdentifier1=
+ComponentDesignItemID1=10uF/16V
+ComponentSymbolReference1=10uF/16V
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Any
+ComponentLibraryIdentifier2=
+ComponentDesignItemID2=1N4007W
+ComponentSymbolReference2=1N4007W
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Any
+ComponentLibraryIdentifier3=
+ComponentDesignItemID3=1u
+ComponentSymbolReference3=1u
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Any
+ComponentLibraryIdentifier4=
+ComponentDesignItemID4=2.2u
+ComponentSymbolReference4=2.2u
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Any
+ComponentLibraryIdentifier5=
+ComponentDesignItemID5=4.7k
+ComponentSymbolReference5=4.7k
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Any
+ComponentLibraryIdentifier6=
+ComponentDesignItemID6=4.7u
+ComponentSymbolReference6=4.7u
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Any
+ComponentLibraryIdentifier7=
+ComponentDesignItemID7=560k
+ComponentSymbolReference7=560k
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Any
+ComponentLibraryIdentifier8=
+ComponentDesignItemID8=LCD
+ComponentSymbolReference8=LCD
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Any
+ComponentLibraryIdentifier9=
+ComponentDesignItemID9=LM1117GSF-3.3
+ComponentSymbolReference9=LM1117GSF-3.3
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=MacroQMK.SchLib
+ComponentDesignItemID10=MX_Cherry
+ComponentSymbolReference10=MX_Cherry
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=MacroQMK.SchLib
+ComponentDesignItemID11=RotaryEncoder_EC11
+ComponentSymbolReference11=RotaryEncoder_EC11
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=MacroQMK.SchLib
+ComponentDesignItemID12=STM32G431CBU6
+ComponentSymbolReference12=STM32G431CBU6
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Type-C.SchLib
+ComponentDesignItemID13=HRO-TYPE-C-31-M-12
+ComponentSymbolReference13=HRO-TYPE-C-31-M-12
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1214,19 +1412,54 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=BOM_Manufacturer
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=BOM_Manufacturer Part
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=BOM_Paste Type
 ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName3=BOM_Supplier
 ParameterUpdate3=1
+ParameterName4=BOM_Supplier Part
+ParameterUpdate4=1
+ParameterName5=Check_prices
+ParameterUpdate5=1
+ParameterName6=Comment
+ParameterUpdate6=1
+ParameterName7=Component Kind
+ParameterUpdate7=1
+ParameterName8=Contributor
+ParameterUpdate8=1
+ParameterName9=Description
+ParameterUpdate9=1
+ParameterName10=Footprint
+ParameterUpdate10=1
+ParameterName11=Library Reference
+ParameterUpdate11=1
+ParameterName12=link
+ParameterUpdate12=1
+ParameterName13=MF
+ParameterUpdate13=1
+ParameterName14=MP
+ParameterUpdate14=1
+ParameterName15=nameAlias
+ParameterUpdate15=1
+ParameterName16=Package
+ParameterUpdate16=1
+ParameterName17=Package Display
+ParameterUpdate17=1
+ParameterName18=SnapEDA_Link
+ParameterUpdate18=1
+ParameterName19=spicePre
+ParameterUpdate19=1
+ParameterName20=spiceSymbolName
+ParameterUpdate20=1
+ParameterName21=Supplier
+ParameterUpdate21=1
+ParameterName22=Value
+ParameterUpdate22=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=MX_Cherry
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
